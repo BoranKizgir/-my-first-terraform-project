@@ -1,0 +1,6 @@
+# Terraform dosyalarını hariç tut
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+.terraform.lock.hcl
